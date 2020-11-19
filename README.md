@@ -1,5 +1,5 @@
 # ironhack-project-3
-Tableau mini-project
+Tableau mini-project. Analysing the decisions and tactics of the Top 50 Fantasy Premier League managers for the 2019/20 season, and presenting them in Tableau.
 
 Project objectives:
 - Find a dataset
